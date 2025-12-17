@@ -1,3 +1,8 @@
+export default function Home(){
+    return(
+        <div>Hello</div>
+    );
+}
 // "use client"
 // import { Button } from "@/components/ui/button"
 // import Typed from 'typed.js';
