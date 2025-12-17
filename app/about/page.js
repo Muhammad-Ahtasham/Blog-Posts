@@ -23,11 +23,11 @@ export default function About() {
                 Hi! I'm Muhammad Ahtasham — an AI and Full Stack Engineer passionate about building intelligent systems and modern, scalable web applications. I work across Machine Learning, NLP, Generative AI, and full-stack development using tools like LangChain, Hugging Face, PyTorch, Node.js, and Next.js.
               </p>
               <p className="text-gray-600 dark:text-gray-50 text-lg mb-4">
-                I’ve developed LLM-powered agents, RAG pipelines, chatbots, and high-performance web apps during my roles at Ocloud Solutions, ITSOLERA, and Musketeers Tech. I enjoy exploring new tech, solving real-world problems, and turning ideas into practical, production-ready solutions.
+                I've developed LLM-powered agents, RAG pipelines, chatbots, and high-performance web apps during my roles at Ocloud Solutions, ITSOLERA, and Musketeers Tech. I enjoy exploring new tech, solving real-world problems, and turning ideas into practical, production-ready solutions.
               </p>
 
               <p className="text-gray-600 dark:text-gray-50 text-lg mb-4">
-                If you’re interested in AI, full-stack engineering, or innovative digital experiences, you’ll find my work aligned with those passions. Let’s build something impactful together!
+                If you're interested in AI, full-stack engineering, or innovative digital experiences, you'll find my work aligned with those passions. Let's build something impactful together!
               </p>
               <p className="text-gray-600 dark:text-gray-50 text-lg">
                 Whether you're just starting out or looking to sharpen your skills, you'll find a variety of resources and insights here. Let's explore the world of programming together!
@@ -48,7 +48,7 @@ export default function About() {
           <div className="space-y-12">
             <div className="flex flex-col md:flex-row items-center">
               <div className="md:w-1/3">
-                <img src="/1.jpg" alt="ATIII as a beginner" className="w-full rounded-lg shadow-lg" />
+                <Image src="/1.jpg" alt="ATIII as a beginner" className="w-full rounded-lg shadow-lg" />
               </div>
               <div className="md:w-2/3 md:pl-8 mt-8 md:mt-0">
                 <h3 className="text-2xl font-bold text-gray-800 dark:text-white dark:text-white">Musketeers Tech – Where It All Began</h3>
@@ -70,7 +70,7 @@ export default function About() {
 
             <div className="flex flex-col md:flex-row-reverse items-center">
               <div className="md:w-1/3">
-                <img src="/2.jpg" alt="ATIII as AI Intern at ITSOLERA Pvt Ltd" className="w-full rounded-lg shadow-lg" />
+                <Image src="/2.jpg" alt="ATIII as AI Intern at ITSOLERA Pvt Ltd" className="w-full rounded-lg shadow-lg" />
               </div>
               <div className="md:w-2/3 md:pr-8 mt-8 md:mt-0">
                 <h3 className="text-2xl font-bold text-gray-800 dark:text-white">ITSOLERA Pvt Ltd – Learning to Build Real AI Solutions</h3>
@@ -91,7 +91,7 @@ export default function About() {
 
             <div className="flex flex-col md:flex-row items-center">
               <div className="md:w-1/3">
-                <img src="/3.jpg" alt="ATIII as Python Developer at Medtronix Systems" className="w-full rounded-lg shadow-lg" />
+                <Image src="/3.jpg" alt="ATIII as Python Developer at Medtronix Systems" className="w-full rounded-lg shadow-lg" />
               </div>
               <div className="md:w-2/3 md:pl-8 mt-8 md:mt-0">
                 <h3 className="text-2xl font-bold text-gray-800 dark:text-white">Medtronix Systems – Becoming a Strong Python Backend Developer</h3>
@@ -115,7 +115,7 @@ export default function About() {
 
             <div className="flex flex-col md:flex-row-reverse items-center">
               <div className="md:w-1/3">
-                <img src="/4.jpg" alt="ATIII as Software Engineer at Ocloud Solutions" className="w-full rounded-lg shadow-lg" />
+                <Image src="/4.jpg" alt="ATIII as Software Engineer at Ocloud Solutions" className="w-full rounded-lg shadow-lg" />
               </div>
               <div className="md:w-2/3 md:pr-8 mt-8 md:mt-0">
                 <h3 className="text-2xl font-bold text-gray-800 dark:text-white">Ocloud Solutions – Becoming an AI & Full Stack Engineer</h3>
